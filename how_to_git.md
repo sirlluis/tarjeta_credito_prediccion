@@ -29,3 +29,5 @@ Una vez preparado con *stage* los cambios, es momento de *empujarlos* al reposit
 Luego de hacer *push* a los cambios, es necsario escribir un pequeño mensaje o *commit* para identificar o describir rápidamente los cambios.
 
 ![Commit](image-5.png)
+
+Finalmente sincronizaremos los cambios con el repositorio original, esto actualziará el archivo original con nuestros cambios.
