@@ -31,3 +31,5 @@ Luego de hacer *push* a los cambios, es necsario escribir un pequeño mensaje o 
 ![Commit](image-5.png)
 
 Finalmente sincronizaremos los cambios con el repositorio original, esto actualziará el archivo original con nuestros cambios.
+
+![Sync](image-6.png)
